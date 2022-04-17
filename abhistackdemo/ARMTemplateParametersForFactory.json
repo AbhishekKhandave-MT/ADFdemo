@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "abhistackdemo"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
