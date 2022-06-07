@@ -1,0 +1,9 @@
+{
+	"name": "abhistackdemo1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "96d9947d-2b00-41be-9cf8-fd5263740ac8",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
